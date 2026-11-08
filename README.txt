@@ -1,0 +1,1 @@
+Upload these 6 files to the ROOT of your GitHub research repository. Replace existing blog.html and styles.css; add on-blocking-out-calendars.html and the three calendar PNGs. Keep your existing on-exams.html, index.html, and conference files unchanged.

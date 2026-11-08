@@ -38,3 +38,7 @@
 .on-exams-page a{font-weight:700;text-decoration:underline;text-underline-offset:3px;}
 .on-exams-page a:hover{color:var(--ink);}
 @media(max-width:750px){.on-exams-page>p:not(.eyebrow):not(.article-byline){font-size:16px;line-height:1.8}.on-exams-page>blockquote{font-size:19px;padding:14px 18px}.blog-page .blog-tile{padding:24px}}
+
+/* Calendar blog post: uses the existing On Exams article design */
+.calendar-article-page .article-figure img{max-height:none;width:auto;max-width:100%;height:auto;object-fit:contain;}
+.calendar-article-page .article-figure{max-width:730px;}
